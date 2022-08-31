@@ -1,1 +1,1 @@
-'mandatory file' 
+'trying out ubuntu' 
